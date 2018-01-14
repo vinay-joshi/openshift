@@ -12544,11 +12544,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\vjosh8\\source\\repos\\WebApp\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\vjosh8\\source\\repos\\WebApp\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "c:\\users\\vjosh8\\source\\repos\\WebApp\\WebApp\\WebApp.csproj",
+      "projectPath": "C:\\Users\\vjosh8\\source\\repos\\WebApp\\WebApp\\WebApp.csproj",
       "packagesPath": "C:\\Users\\vjosh8\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\vjosh8\\source\\repos\\WebApp\\WebApp\\obj\\",
+      "outputPath": "C:\\Users\\vjosh8\\source\\repos\\WebApp\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
